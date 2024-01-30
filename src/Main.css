@@ -1,0 +1,38 @@
+.headerText {
+  font-family: URW Chancery L, cursive;
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 50px;
+  position: absolute;
+  left: 47%;
+}
+
+.searchcontainer {
+  width: 52% !important;
+  z-index: 1;
+  height: 3rem;
+  position: absolute;
+  top: 20%;
+  left: 27%;
+  border-radius: 10px;
+  background-color: #fff !important;
+}
+.imageContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 20px;
+  width: 80%;
+  position: absolute;
+  left: 13%;
+}
+
+.card-image {
+  height: 200px;
+  width: 180px;
+  margin: 10px; /* Adjust margin as needed */
+}
+
+.Image {
+  margin: 10px; /* Adjust margin as needed */
+}
